@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Anjali T!</h1>
 <p align="center">
-  <em>Assistant Professor at <a href="https://www.amrita.edu/">Amrita Vishwa Vidyapeetham</a></em>
+  <em>Assistant Professor (Senior Grade) at <a href="https://www.amrita.edu/">Amrita Vishwa Vidyapeetham</a></em>
 </p>
 
 <!-- Badges -->
