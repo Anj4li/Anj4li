@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Anjali T!</h1>
+<h1 align="center">👋 Hi there, I'm Anjali T!</h1>
 <p align="center">
   <em>Assistant Professor at <a href="https://www.amrita.edu/">Amrita Vishwa Vidyapeetham</a></em>
 </p>
@@ -18,6 +18,7 @@
 </p>
 
 <!-- About Me -->
+<h2 align="center">About Me</h2>
 <p align="center">
   🎓 Master's in Computer Science & Machine Learning | 📚 Pursuing Ph.D. in Computer Science<br>
   💡 Researcher in Image Processing, Computer Vision, and Machine Learning<br>
