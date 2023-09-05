@@ -6,19 +6,6 @@
   <em>Assistant Professor (Senior Grade) at <a href="https://www.amrita.edu/">Amrita Vishwa Vidyapeetham</a></em>
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/anjalitraj/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.facebook.com/anjaliraj87">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook">
-  </a>
-  <a href="https://scholar.google.com/citations?user=oTGUmgIAAAAJ">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Follow-blue?style=for-the-badge&logo=google-scholar">
-  </a>
-</p>
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <!-- About Me -->
@@ -78,6 +65,19 @@
 <!-- Footer -->
 <p align="center">
   📫 Feel free to connect with me or explore my repositories. If you share interests in software engineering, image processing, computer vision, or machine learning, let's collaborate!
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjalitraj/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/anjaliraj87">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://scholar.google.com/citations?user=oTGUmgIAAAAJ">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Follow-blue?style=for-the-badge&logo=google-scholar">
+  </a>
 </p>
 
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
